@@ -1,0 +1,4 @@
+[debug] [progfun1-example-test] Classpath dependencies List()
+[debug] [progfun1-example-test] Dependencies from configurations List(progfun1-example)
+[debug] Bloop wrote the configuration of project 'progfun1-example-test' to 'D:\Coursera\Scala\progfun1-example\.bloop\progfun1-example-test.json'
+[success] Generated .bloop\progfun1-example-test.json

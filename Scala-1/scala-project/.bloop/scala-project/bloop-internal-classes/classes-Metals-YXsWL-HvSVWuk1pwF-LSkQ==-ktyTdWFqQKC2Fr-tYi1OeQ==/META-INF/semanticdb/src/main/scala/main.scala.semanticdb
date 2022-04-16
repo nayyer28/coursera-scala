@@ -1,0 +1,21 @@
+
+¨src/main/scala/main.scala*'
+example/main$package. *example€*'
+example/main$package.run().*run€*
+example/run# *run€*)
+example/run#`<init>`(). €@*<init>€*#
+example/run#main(). € *main€*&
+example/run#main().(args)*args€*
+local0 €*error€2
+ example/2
+example/main$package.2
+ scala/main#2)
+
+ example/main$package.run().2
+ scala/Unit#2'
+  scala/Predef.println(+1).2
+example/run#2!
+example/run#`<init>`().2%
+example/main$package.run().23
+)scala/util/CommandLineParser.showError().2
+local0PZ EA241FE7C7041FF28FE91249AC51CB4A

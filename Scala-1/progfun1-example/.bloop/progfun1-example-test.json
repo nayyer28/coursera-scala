@@ -1,0 +1,153 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "progfun1-example-test",
+        "directory": "D:\\Coursera\\Scala\\progfun1-example",
+        "workspaceDir": "D:\\Coursera\\Scala\\progfun1-example",
+        "sources": [
+            "D:\\Coursera\\Scala\\progfun1-example\\src\\test\\scala",
+            "D:\\Coursera\\Scala\\progfun1-example\\src\\test\\scala-2.12",
+            "D:\\Coursera\\Scala\\progfun1-example\\src\\test\\scala-2",
+            "D:\\Coursera\\Scala\\progfun1-example\\src\\test\\java",
+            "D:\\Coursera\\Scala\\progfun1-example\\target\\scala-2.12\\src_managed\\test"
+        ],
+        "dependencies": [
+            "progfun1-example"
+        ],
+        "classpath": [
+            "D:\\Coursera\\Scala\\progfun1-example\\.bloop\\progfun1-example\\scala-2.12\\classes",
+            "C:\\Users\\Saahil Nayyer\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar"
+        ],
+        "out": "D:\\Coursera\\Scala\\progfun1-example\\.bloop\\progfun1-example",
+        "classesDir": "D:\\Coursera\\Scala\\progfun1-example\\.bloop\\progfun1-example\\scala-2.12\\test-classes",
+        "resources": [
+            "D:\\Coursera\\Scala\\progfun1-example\\src\\test\\resources",
+            "D:\\Coursera\\Scala\\progfun1-example\\target\\scala-2.12\\resource_managed\\test"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.15",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\Saahil Nayyer\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar",
+                "C:\\Users\\Saahil Nayyer\\.sbt\\boot\\scala-2.12.15\\lib\\scala-compiler.jar",
+                "C:\\Users\\Saahil Nayyer\\.sbt\\boot\\scala-2.12.15\\lib\\scala-reflect.jar",
+                "C:\\Users\\Saahil Nayyer\\.sbt\\boot\\scala-2.12.15\\lib\\scala-xml_2.12-1.0.6.jar"
+            ],
+            "analysis": "D:\\Coursera\\Scala\\progfun1-example\\target\\streams\\test\\bloopAnalysisOut\\_global\\streams\\inc_compile_2.12.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Users\\Saahil Nayyer\\AppData\\Local\\Coursier\\cache\\jvm\\adopt@1.11.0-11",
+                "options": [
+                    "-Duser.dir=D:\\Coursera\\Scala\\progfun1-example"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.15",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Saahil Nayyer\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Saahil Nayyer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.15\\scala-library-2.12.15-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.15",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Saahil Nayyer\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Saahil Nayyer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.15\\scala-library-2.12.15-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}

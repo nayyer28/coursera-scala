@@ -1,0 +1,696 @@
+[0m2022.01.01 19:03:17 INFO  Started: Metals version 0.10.9 in workspace 'D:\Coursera\Scala\progfun1-example' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.01 19:03:18 INFO  time: initialize in 1.44s[0m
+[0m2022.01.01 19:03:19 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.01 19:03:19 WARN  no build tool detected in workspace 'D:\Coursera\Scala\progfun1-example'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.01 19:03:44 WARN  no build tool detected in workspace 'D:\Coursera\Scala\progfun1-example'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.01 19:03:45 WARN  no build tool detected in workspace 'D:\Coursera\Scala\progfun1-example'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.01 19:04:07 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\example\Lists.scala[0m
+Jan 01, 2022 7:04:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+[0m2022.01.01 19:04:11 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.01 19:04:14 INFO  time: code lens generation in 1.53s[0m
+[0m2022.01.01 19:04:14 INFO  time: code lens generation in 6.56s[0m
+[0m2022.01.01 19:05:30 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+[0m2022.01.01 19:06:17 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+[0m2022.01.01 19:06:42 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\example\Lists.scala[0m
+[0m2022.01.01 19:07:07 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\example\main.scala[0m
+[0m2022.01.01 19:07:13 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\example\main.scala[0m
+[0m2022.01.01 19:07:45 INFO  shutting down Metals[0m
+[0m2022.01.01 19:08:29 INFO  Started: Metals version 0.10.9 in workspace 'D:\Coursera\Scala\progfun1-example' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.01 19:08:30 INFO  time: initialize in 1.16s[0m
+[0m2022.01.01 19:08:31 INFO  Attempting to connect to the build server...[0m
+[0m2022.01.01 19:08:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Saahil Nayyer\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2022.01.01 19:08:35 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Jan 01, 2022 7:08:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+[0m2022.01.01 19:08:37 INFO  time: code lens generation in 1.7s[0m
+[0m2022.01.01 19:08:37 INFO  time: code lens generation in 1.04s[0m
+[0m2022.01.01 19:08:37 INFO  time: code lens generation in 1.7s[0m
+[0m2022.01.01 19:08:38 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+[0m2022.01.01 19:08:42 INFO  time: Connected to build server in 11s[0m
+[0m2022.01.01 19:08:42 INFO  Connected to Build server: sbt v1.6.1[0m
+[0m2022.01.01 19:08:42 INFO  Processing workspace/buildTargets[0m
+[0m2022.01.01 19:08:42 INFO  Processing buildTarget/scalacOptions[0m
+[0m2022.01.01 19:08:42 INFO  Processing buildTarget/sources[0m
+[0m2022.01.01 19:08:42 INFO  Processing buildTarget/dependencySources[0m
+[0m2022.01.01 19:08:49 INFO  time: Imported build in 6.49s[0m
+[0m2022.01.01 19:08:52 INFO  time: indexed workspace in 3.49s[0m
+[0m2022.01.01 19:08:52 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+[0m2022.01.01 19:08:52 INFO  Processing buildTarget/scalaMainClasses[0m
+[0m2022.01.01 19:08:52 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+[0m2022.01.01 19:08:52 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\example\main.scala[0m
+[0m2022.01.01 19:08:52 INFO  compiling progfun1-example[0m
+[0m2022.01.01 19:08:54 INFO  no build target: using presentation compiler with only scala-library: 2.12.15[0m
+[0m2022.01.01 19:08:54 INFO  time: compiled progfun1-example in 1.96s[0m
+[0m2022.01.01 19:08:54 INFO  compiling progfun1-example-test[0m
+[0m2022.01.01 19:08:54 INFO  time: compiled progfun1-example-test in 1ms[0m
+[0m2022.01.01 19:08:54 INFO  Processing buildTarget/scalaTestClasses[0m
+[0m2022.01.01 19:08:54 INFO  compiling progfun1-example[0m
+[0m2022.01.01 19:08:54 INFO  time: compiled progfun1-example in 506?s[0m
+[0m2022.01.01 19:08:54 INFO  compiling progfun1-example-test[0m
+[0m2022.01.01 19:08:54 INFO  time: compiled progfun1-example-test in 432?s[0m
+Jan 01, 2022 7:08:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:08:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2022.01.01 19:09:12 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+Jan 01, 2022 7:09:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:09:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2022.01.01 19:09:15 INFO  running 'C:\Users\Saahil Nayyer\AppData\Local\Coursier\cache\jvm\adopt@1.11.0-11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\SAAHIL~1\AppData\Local\Temp\metals3612613025137658535\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2022.01.01 19:09:17 INFO  [info] welcome to sbt 1.6.1 (AdoptOpenJDK Java 11.0.11)[0m
+[0m2022.01.01 19:09:19 INFO  [info] loading settings for project progfun1-example-build-build from metals.sbt ...[0m
+[0m2022.01.01 19:09:19 INFO  [info] loading project definition from D:\Coursera\Scala\progfun1-example\project\project[0m
+[0m2022.01.01 19:09:21 INFO  [info] loading settings for project progfun1-example-build from metals.sbt ...[0m
+[0m2022.01.01 19:09:21 INFO  [info] loading project definition from D:\Coursera\Scala\progfun1-example\project[0m
+[0m2022.01.01 19:09:24 INFO  [success] Generated .bloop\progfun1-example-build.json[0m
+[0m2022.01.01 19:09:24 INFO  [success] Total time: 4 s, completed Jan 1, 2022, 7:09:25 PM[0m
+[0m2022.01.01 19:09:24 INFO  [info] set current project to progfun1-example (in build file:/D:/Coursera/Scala/progfun1-example/)[0m
+[0m2022.01.01 19:09:26 INFO  [success] Generated .bloop\progfun1-example-test.json[0m
+[0m2022.01.01 19:09:26 INFO  [success] Generated .bloop\progfun1-example.json[0m
+[0m2022.01.01 19:09:26 INFO  [success] Total time: 0 s, completed Jan 1, 2022, 7:09:26 PM[0m
+[0m2022.01.01 19:09:26 INFO  time: ran 'sbt bloopInstall' in 10s[0m
+[0m2022.01.01 19:09:26 INFO  Disconnecting from sbt session...[0m
+[0m2022.01.01 19:09:26 INFO  Shut down connection with build server.[0m
+[0m2022.01.01 19:09:26 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 19000'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from 'd:\Coursera\Scala\progfun1-example\.bloop'...
+[0m[32m[D][0m Loading project from 'd:\Coursera\Scala\progfun1-example\.bloop\progfun1-example.json'
+[0m[32m[D][0m Loading project from 'd:\Coursera\Scala\progfun1-example\.bloop\progfun1-example-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.15.
+[0m[32m[D][0m   => C:\Users\Saahil Nayyer\.sbt\boot\scala-2.12.15\lib\scala-compiler.jar
+[0m[32m[D][0m   => C:\Users\Saahil Nayyer\.sbt\boot\scala-2.12.15\lib\scala-library.jar
+[0m[32m[D][0m   => C:\Users\Saahil Nayyer\.sbt\boot\scala-2.12.15\lib\scala-reflect.jar
+[0m[32m[D][0m   => C:\Users\Saahil Nayyer\.sbt\boot\scala-2.12.15\lib\scala-xml_2.12-1.0.6.jar
+[0m[32m[D][0m Missing analysis file for project 'progfun1-example'
+[0m[32m[D][0m Missing analysis file for project 'progfun1-example-test'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:19000...
+The server is listening for incoming connections at tcp://127.0.0.1:19000...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.01 19:09:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Saahil Nayyer\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2022.01.01 19:09:26 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 12483'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:12483...
+The server is listening for incoming connections at tcp://127.0.0.1:12483...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.01 19:09:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Saahil Nayyer\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2022.01.01 19:09:26 INFO  time: Connected to build server in 0.78s[0m
+[0m2022.01.01 19:09:26 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.01 19:09:27 INFO  time: Imported build in 0.38s[0m
+[0m2022.01.01 19:09:30 INFO  no build target: using presentation compiler with only scala-library: 2.12.15[0m
+Jan 01, 2022 7:09:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:09:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2022.01.01 19:09:31 INFO  time: indexed workspace in 3.66s[0m
+[0m2022.01.01 19:09:31 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+Jan 01, 2022 7:09:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:09:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:10:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2022.01.01 19:10:08 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\main.scala[0m
+Jan 01, 2022 7:10:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:10:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fmain.scala:3: error: expected start of definition
+@main def run(): Unit =
+      ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4570)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4544)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5092)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2022.01.01 19:10:10 WARN  no build target for: D:\Coursera\Scala\progfun1-example\example\src\main\scala\example\Lists.scala[0m
+Jan 01, 2022 7:10:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fexample%2FLists.scala:3: error: ; expected but : found
+object Lists:
+            ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fexample%2FLists.scala:3: error: ; expected but : found
+object Lists:
+            ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:941)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:947)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSep(ScalametaParser.scala:957)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSepOpt(ScalametaParser.scala:961)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5073)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:10:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fexample%2FLists.scala:3: error: ; expected but : found
+object Lists:
+            ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fexample%2FLists.scala:3: error: ; expected but : found
+object Lists:
+            ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:941)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:947)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSep(ScalametaParser.scala:957)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSepOpt(ScalametaParser.scala:961)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5073)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+Jan 01, 2022 7:10:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fexample%2FLists.scala:3: error: ; expected but : found
+object Lists:
+            ^
+file%3A%2F%2F%2FD%3A%2FCoursera%2FScala%2Fprogfun1-example%2Fexample%2Fsrc%2Fmain%2Fscala%2Fexample%2FLists.scala:3: error: ; expected but : found
+object Lists:
+            ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:941)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:947)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSep(ScalametaParser.scala:957)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSepOpt(ScalametaParser.scala:961)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5073)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:5302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5308)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2022.01.01 19:10:15 INFO  shutting down Metals[0m
+[0m2022.01.01 19:10:15 INFO  Shut down connection with build server.[0m
+[0m2022.01.01 19:10:15 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...

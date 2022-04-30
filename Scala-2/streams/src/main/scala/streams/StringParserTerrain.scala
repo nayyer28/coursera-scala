@@ -7,24 +7,24 @@ package streams
  * When mixing in that component, a level can be defined by
  * defining the field `level` in the following form:
  *
- *   val level =
- *     """------
- *       |--ST--
- *       |--oo--
- *       |--oo--
- *       |------""".stripMargin
+ * val level =
+ * """------
+ * |--ST--
+ * |--oo--
+ * |--oo--
+ * |------""".stripMargin
  *
  * - The `-` character denotes parts which are outside the terrain
  * - `o` denotes fields which are part of the terrain
  * - `S` denotes the start position of the block (which is also considered
-     inside the terrain)
+ * inside the terrain)
  * - `T` denotes the final position of the block (which is also considered
-     inside the terrain)
+ * inside the terrain)
  *
  * In this example, the first and last lines could be omitted, and
  * also the columns that consist of `-` characters only.
  */
-trait StringParserTerrain extends GameDef:
+trait StringParserTerrain extends GameDef :
 
   /**
    * A ASCII representation of the terrain. This field should remain
@@ -37,27 +37,28 @@ trait StringParserTerrain extends GameDef:
    * in `levelVector`. The vector contains parsed version of the `level`
    * string. For example, the following level
    *
-   *   val level =
-   *     """ST
-   *       |oo
-   *       |oo""".stripMargin
+   * val level =
+   * """ST
+   * |oo
+   * |oo""".stripMargin
    *
    * is represented as
    *
-   *   Vector(Vector('S', 'T'), Vector('o', 'o'), Vector('o', 'o'))
+   * Vector(Vector('S', 'T'), Vector('o', 'o'), Vector('o', 'o'))
    *
    * The resulting function should return `true` if the position `pos` is
    * a valid position (not a '-' character) inside the terrain described
    * by `levelVector`.
    */
   def terrainFunction(levelVector: Vector[Vector[Char]]): Pos => Boolean = {
-      val legalPositions = for
-        row <- levelVector
-        col <- row
-        if col!= '-'
-      yield Pos(levelVector.indexOf(row), row.indexOf(col))
-        
-      pos => legalPositions.contains(pos)
+    def valid(pos: Pos): Boolean = {
+      if (levelVector.isEmpty || pos.row < 0 || pos.col < 0) false
+      else {
+        pos.row < levelVector.length && pos.col < levelVector(pos.row).length && levelVector(pos.row)(pos.col) != '-'
+      }
+    }
+
+    valid
   }
 
   /**
@@ -78,7 +79,7 @@ trait StringParserTerrain extends GameDef:
   }
 
   private lazy val vector: Vector[Vector[Char]] =
-    Vector(level.split("\r?\n").map(str => Vector(str*)).toIndexedSeq*)
+    Vector(level.split("\r?\n").map(str => Vector(str *)).toIndexedSeq *)
 
   lazy val terrain: Terrain = terrainFunction(vector)
   lazy val startPos: Pos = findChar('S', vector)

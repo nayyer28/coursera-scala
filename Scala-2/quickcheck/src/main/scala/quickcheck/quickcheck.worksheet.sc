@@ -3,6 +3,9 @@ import Arbitrary.*
 import Gen.*
 import Prop.{forAll, iff}
 
-for{
+/*for{
   i <- Arbitrary[Int]
-} yield i
+} yield i*/
+
+val m = Map('first' -> 'Saahil', 'last'-> 'Nayyer')
+m.map(_._1)
